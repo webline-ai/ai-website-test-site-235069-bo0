@@ -7,7 +7,7 @@ import { useState, useEffect } from 'react';
 import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
-  title: 'Technology Made Simple',
+  title: 'Technology Made Simple yes',
   subtitle: 'Clean, intuitive solutions that work seamlessly for everyone',
   description:
     'We believe the best technology disappears into the background, letting you focus on what matters most. Our streamlined approach removes complexity without sacrificing power.',
